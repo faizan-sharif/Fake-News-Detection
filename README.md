@@ -73,6 +73,8 @@ Fake-News-Detection/
 8. **Comparison** – Analyze model performance
 
 ---
+<img width="1852" height="752" alt="image" src="https://github.com/user-attachments/assets/a62920c0-e5cf-463b-9d64-647e539ce299" />
+
 
 ## 📈 Evaluation Metrics
 
